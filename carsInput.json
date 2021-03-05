@@ -1,0 +1,94 @@
+{
+  "cars": [
+    {
+      "name": "Audi",
+      "model": "A5",
+      "fuel_consumption": "10",
+      "registration_number": "K-0513-BC",
+      "daily_cost": "100",
+      "weekly_cost": "150",
+      "hour_cost": "20"
+    },
+    {
+      "name": "Ford",
+      "model": "Fiesta",
+      "fuel_consumption": "20",
+      "registration_number": "CA-2255-PP",
+      "daily_cost": "100",
+      "weekly_cost": "150",
+      "hour_cost": "12"
+    },
+    {
+      "name": "Toyota",
+      "model": "Corolla",
+      "fuel_consumption": "15",
+      "registration_number": "X-1122-KK",
+      "daily_cost": "45",
+      "weekly_cost": "65",
+      "hour_cost": "12"
+    },
+    {
+      "name": "Ford",
+      "model": "Focus",
+      "fuel_consumption": "15",
+      "registration_number": "X-3512-KB",
+      "daily_cost": "50",
+      "weekly_cost": "85",
+      "hour_cost": "15"
+    },
+    {
+      "name": "Renault",
+      "model": "Clio",
+      "fuel_consumption": "10",
+      "registration_number": "C-8616-KA",
+      "daily_cost": "45",
+      "weekly_cost": "65",
+      "hour_cost": "12"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "model": "E-Class",
+      "fuel_consumption": "14",
+      "registration_number": "CA-2366-KP",
+      "daily_cost": "75",
+      "weekly_cost": "105",
+      "hour_cost": "25"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "model": "A-Class",
+      "fuel_consumption": "9",
+      "registration_number": "CA-9275-KP",
+      "daily_cost": "45",
+      "weekly_cost": "95",
+      "hour_cost": "13"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "model": "C-Class",
+      "fuel_consumption": "14",
+      "registration_number": "CA-8542-BA",
+      "daily_cost": "73",
+      "weekly_cost": "101",
+      "hour_cost": "29"
+    },
+    {
+      "name": "Audi",
+      "model": "A6",
+      "fuel_consumption": "15",
+      "registration_number": "CA-9349-KP",
+      "daily_cost": "75",
+      "weekly_cost": "105",
+      "hour_cost": "25"
+    },
+    {
+      "name": "Maserati",
+      "model": "Quattroporte",
+      "fuel_consumption": "17",
+      "registration_number": "CA-7618-KP",
+      "daily_cost": "85",
+      "weekly_cost": "125",
+      "hour_cost": "40"
+    }
+  ]
+}
